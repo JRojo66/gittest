@@ -16,7 +16,7 @@ Para subir la información a github
 6) Sacar la foto del estado al momento de subir los cambios con un mensaje explicatorio de los cambios a subir con git commit -m 'lo ultimo que cambie es...'
 7) Mandar los cambios con git push o git push origin main
 
-Para ver los adds y commits hechos sin enviar usar git status
+Para ver las modificaciones hechas, los adds hechos sin commit y los commits hechos sin enviar usar git status...
 Para ver los commits hechos usar git log
 
 
